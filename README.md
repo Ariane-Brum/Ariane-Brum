@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
- • 💻  Linguagens: : <strong>Javascript, Html, GitHub, Css, React e em busca de aprender muito mais!</strong>
+ • 💻  Linguagens: <strong>Javascript, Html, Css, React e em busca de aprender muito mais.</strong>
 </p>  
 
 <p align="center">
