@@ -17,16 +17,18 @@
 </p>
 
 <p align="center">
- • 💼  Habilidades: <strong>Javascript, Html, GitHub, Css, React.</strong>
+ • 💻  Linguagens: : <strong>Javascript, Html, GitHub, Css, React e em busca de aprender muito mais!</strong>
 </p>  
-
-<p align="center">
- • 🚀  Estudando: <strong> Html, JavaScript, CSS, Sass e React</strong>
-</p> 
 
 <p align="center">
  • 🎯  Objetivo: <strong>Pretendo me tornar Desenvolvedora Front-End.</strong>
 </p> 
+
+<p align="center">
+ • 👩‍💻  Estudando: <strong> Html, JavaScript, CSS, Sass e React</strong>
+</p> 
+
+
 
 <p align="center">
   💌 Envie uma mensagem: ⤵️
