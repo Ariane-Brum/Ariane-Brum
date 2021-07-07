@@ -16,17 +16,20 @@
    <strong>E sou apaixonada por tecnologia. 💓</strong>
 </p>
 
+
 <p align="center">
- • 💻  Linguagens: <strong>Javascript, Html, Css, React e em busca de aprender muito mais.</strong>
+ • 👩‍💻  Estudando: <strong> Html, JavaScript, CSS3, React e SASS.</strong>
+</p> 
+
+<p align="center">
+ • 💻  Linguagens: <strong>Javascript, Html, Css3, React.</strong>
 </p>  
 
-<p align="center">
- • 🎯  Objetivo: <strong>Pretendo me tornar Desenvolvedora Front-End.</strong>
-</p> 
 
 <p align="center">
- • 👩‍💻  Estudando: <strong> Html, JavaScript, CSS, Sass e React</strong>
-</p> 
+• 🎨  Ferramentas: <strong>Visual Studio Code, GitHub.</strong>
+</p>
+   
 
 
 
