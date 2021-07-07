@@ -54,6 +54,6 @@
 ## ⭐ GitHub Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Ariane-Brum&show_icons=true&theme=bear&line_height=27">
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ariane-Brum&langs_count=5&theme=bear">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Ariane-Brum&show_icons=true&theme=tokyonight&line_height=27">
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ariane-Brum&langs_count=5&theme=tokyonight">
 </p>
