@@ -14,8 +14,7 @@
 
 <br>
 <p align="center">
-   <strong>Olá, sou a Ariane, estudante de Análise e Desenvolvimento de Sistemas.</strong><br />
-   <strong>E sou apaixonada por tecnologia. 💓</strong>
+   <strong>Programadora Front-End 💓</strong>
 </p>
 
 
